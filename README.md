@@ -1,7 +1,7 @@
 - 👋 Olá eu sou o  Jonias
 - 👀 Hoje estou trabalhando como analista de suporte técnico
 - 🌱 Atualmente estou estudando JavaScript ,HTML e CSS
-- 💞️ Estou em busca de uma oportunidade de desenvolvedor
+
 
 <div align="center">
   <a href="https://github.com/JonFrontEnd">
