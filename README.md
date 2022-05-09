@@ -15,7 +15,7 @@
   <img align="center" alt="Jon-React" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jon-HTML" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jon-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+ <img aling="center" height="40" width=30" src=" https://www.google.com/search?q=Progamador&tbm=isch&ved=2ahUKEwidk7zC1tL3AhXzOLkGHX7vDlsQ2-cCegQIABAA&oq=Progamador&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAoQGDoGCAAQBxAeOgQIABAeUNEGWNQOYLMPaABwAHgAgAGXAogBgAiSAQUwLjUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=hSt5Yt28A_Px5OUP_t672AU&rlz=1C1GCEU_pt-BRBR983BR983#imgrc=U-Ndm8JtBdrIzM">
 </div>
 
 
