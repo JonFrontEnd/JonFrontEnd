@@ -1,12 +1,18 @@
-- 👋 Olá eu sou o  Jonias
-- 👀 Hoje estou trabalhando como analista de suporte técnico
-- 🌱 Atualmente estou estudando JavaScript ,HTML e CSS
+<div align="center" <h1> Olá, seja bem vindo ao meu perfil &#129395;</h1> 
+
+![luffy](https://user-images.githubusercontent.com/89999300/170878086-d27ca87e-2ea2-4d0c-8e8b-583930436430.gif)
+
+
+<p>Me chamo Jonias Silva, tenho 21 anos e sou estudante de ADS na universidade Unifametro<p>
+<p>Atualmente estou estudando JavaScript,html e css<p>
+<p>Gosto muito de assitir One Piece e com isso fico criando alguns projetos em relação ao anime<p>
+</div>
 
 
 <div align="center">
   <a href="https://github.com/JonFrontEnd">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JonFrontEnd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFrontEnd&layout=compact&langs_count=7&theme=dark"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonFrontEnd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFrontEnd&layout=compact&langs_count=7&theme=dark"/> 
 </div>
   
   
