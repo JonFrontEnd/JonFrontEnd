@@ -3,7 +3,7 @@
 ![luffy](https://user-images.githubusercontent.com/89999300/170878086-d27ca87e-2ea2-4d0c-8e8b-583930436430.gif)
 
 
-<p>Me chamo Jonias Silva, tenho 21 anos e sou estudante de ADS na universidade Unifametro<p>
+<p>Me chamo Jonias Silva, tenho 22 anos e sou graduado em ADS na universidade Unifametro<p>
 <p>Atualmente estou estudando JavaScript,html e css<p>
 <p>Gosto muito de assitir One Piece e com isso fico criando alguns projetos em relação ao anime<p>
 </div>
