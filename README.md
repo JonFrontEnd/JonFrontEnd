@@ -5,7 +5,7 @@
 
 <p>Me chamo Jonias Silva, tenho 22 anos e sou graduado em ADS na universidade Unifametro<p>
 <p>Atualmente estou estudando JavaScript,html e css<p>
-<p>Gosto muito de assitir One Piece e com isso fico criando alguns projetos em relação ao anime<p>
+
 </div>
 
 
