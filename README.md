@@ -4,7 +4,7 @@
 
 
 <p>Me chamo Jonias Silva, tenho 22 anos e sou graduado em ADS na universidade Unifametro<p>
-<p>Atualmente estou estudando JavaScript,html e css<p>
+<p>Recentemente finalizei minha formação em FRONT-END,agora estou me aprofundando no mundo de Data Science, e estou apaixonado pela área<p>
 
 </div>
 
