@@ -11,8 +11,6 @@
 </div>
  
  
- <img  align= "center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonias&langs_count=8"/>
-
  
  
 
