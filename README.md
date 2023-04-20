@@ -8,12 +8,7 @@
   <a href="https://github.com/JonFrontEnd">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Jonias&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  
-   
-
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jonias&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jonfrontend/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jonias&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jonfrontend/github-readme-stats#gh-light-mode-only)
-
+  
 </div>
 
  
