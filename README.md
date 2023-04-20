@@ -1,5 +1,13 @@
 ## Olá me chamo Jonias Silva, analista de sistema e estudante de programação
 
+<div align="center">
+  <a href="https://github.com/JonFrontEnd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonias&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonias&layout=compact&langs_count=7&theme=black"/>
+</div>
+
+
+
 
 
 
