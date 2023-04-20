@@ -1,41 +1,25 @@
-<div align="center" <h1> Olá, seja bem vindo ao meu perfil &#129395;</h1> 
-
-![luffy](https://user-images.githubusercontent.com/89999300/170878086-d27ca87e-2ea2-4d0c-8e8b-583930436430.gif)
-
-
-<p>Me chamo Jonias Silva, tenho 22 anos e sou graduado em ADS na universidade Unifametro<p>
-<p>Recentemente finalizei minha formação em FRONT-END,agora estou me aprofundando no mundo de Data Science, e estou apaixonado pela área<p>
-
-</div>
-
-
+##  Oii eu sou Jonias Silva, estudante de programação e Analista de Sistemas  
 <div align="center">
-  <a href="https://github.com/JonFrontEnd">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonFrontEnd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFrontEnd&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Jonfrontend">
+</div>
+
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
+  <img align="center" alt="Jon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original .svg">
+  <img align="center" alt="Jon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
+  <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
+  <img align="center" alt="Jon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original .svg">
+
 </div>
   
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Jon-Js" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jon-React" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jon-HTML" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jon-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-</div
-    >
-
-
-
- 
   ##
  
-<div> 
+<div>
+ 
+  <a href="https://instagram.com/Jonszz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jonias.silvaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href="https:https://www.linkedin.com/in/jonias-silva-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
- 	
- 
-  <a href = "mailto:jonias.silvaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Jonias Silva-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
 </div>
