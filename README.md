@@ -3,20 +3,19 @@
 
 
 
+<div align="center">
 
 
-
-
-
-
-
- ![gif-programer](https://user-images.githubusercontent.com/89999300/233846640-bc58fcb1-40e9-4235-a1ed-9a4907861ede.gif)>
-
-
-
+ ![gif-programer](https://user-images.githubusercontent.com/89999300/233846640-bc58fcb1-40e9-4235-a1ed-9a4907861ede.gif)
  
  
-<div>
+
+</div>
+ 
+ 
+ 
+ 
+<div style="display: inline_block">
 
  <a href="https://github.com/JonFrontEnd">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=JonFrontEnd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
