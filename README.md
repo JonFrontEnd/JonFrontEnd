@@ -1,4 +1,4 @@
-## Olá me chamo Jonias Silva, analista de sistema e desenvolvedor Front-End.
+## Analista de Sistemas
 
 
 
@@ -11,6 +11,22 @@
  
 
 </div>
+ 
+ 
+ 
+ ## Olá, eu sou o Jonias! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+ 
+## Sobre Mim
+<div style="display: inline_block"  >
+ 
+
+<p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
+<p> - 🎯 Interesse: Java, API , HTML, CSS, JavaScript, AWS, React,Python Data Science . </p>
+<p> - 🎮 Gosta de jogar Valorantzin? É só chamar, vamos tiltar juntos ;) </p>
+ 
+ </div>
+ 
+ 
  
  
  
@@ -30,9 +46,7 @@
 
 
 
-
-
- 
+## Minhas skills :nerd_face:
  
  
 <div align="center">
@@ -43,4 +57,12 @@
   <img align="center"  height="35" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div
+
+
+ 
+ ## Total de Pessoas que vieram bisbilhotar 
+ <div align="center">
+  <img alingn="center" src="https://profile-counter.glitch.me/JonFrontEnd/count.svg" />
+ <div/>
+
 
