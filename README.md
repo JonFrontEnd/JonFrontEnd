@@ -27,10 +27,6 @@
  
  
  
- 
- 
- 
- 
 <div style="display: inline_block">
 
  <a href="https://github.com/JonFrontEnd">
@@ -40,9 +36,6 @@
  
  
  
- 
-
-
 
 
 ## Minhas skills :nerd_face:
@@ -69,9 +62,13 @@
 
 
  
- ## Total de Pessoas que vieram bisbilhotar 
+ 
+ ## Total de Pessoas que vieram bisbilhotar.
+ 
  <div align="center">
+ 
   <img alingn="center" src="https://profile-counter.glitch.me/JonFrontEnd/count.svg" />
+ 
  <div/>
 
 
