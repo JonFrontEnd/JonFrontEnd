@@ -17,9 +17,8 @@
  ## Olá, eu sou o Jonias! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
  
 ## Sobre Mim
-<div style="display: inline_block"  >
+<div style="display: inline_block"  >  
  
-
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
 <p> - 🎯 Interesse: Java, API , HTML, CSS, JavaScript, AWS, React,Python Data Science . </p>
 <p> - 🎮 Gosta de jogar Valorantzin? É só chamar, vamos tiltar juntos ;) </p>
